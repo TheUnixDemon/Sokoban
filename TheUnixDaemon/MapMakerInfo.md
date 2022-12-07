@@ -1,4 +1,4 @@
-# How to Create a Map.
+# How to Create a Map
 
 If you want to make a map you have to create a text file with the suffix `.map`.
 
@@ -17,3 +17,5 @@ For Example:
 # Rules:
 1. The Player can't finish the game if there are more Boxes than goals and vice versa. (No measures to enforce this rule.)
 2. There can only be one Player. (No measures to enforce this rule.)
+
+credits on "WachsamesWiesel" for this tutorial
